@@ -179,6 +179,8 @@ class FlipBookControl(QApplication):
         self.tray_icon = QSystemTrayIcon(self)
         self.tray_icon.setIcon(icon)
         self.tray_icon.setVisible(True)
+        self.tray_icon.setToolTip("FlipBook")
+
 
         self.menu = QMenu()
         self.show_window_action = QAction("Show Main Window", self)
