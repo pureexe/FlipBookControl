@@ -11,8 +11,9 @@ Currently only support Windows, since my flipbook style laptop touchscreen is no
 < To be filled >
 
 ## TODO
-- [ ] Use tray icon to launch app
-- [ ] Support Switching between Laptop mdoe and Book mode
-- [ ] Support Presentation mode 
+- [x] Use tray icon to launch app
+- [x] Support Switching between Laptop mdoe and Book mode
+- [x] Support Presentation mode 
 - [ ] Support switching between tablet mode and laptop mode without fold the laptop
 - [ ] Support Built-in Accelerometer to rotate screen
+- [ ] Support Light/Dark theme
