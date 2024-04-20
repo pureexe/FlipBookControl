@@ -202,8 +202,10 @@ class FlipBookControl(QApplication):
         else:
             self.window.hide()
 
-if __name__ == '__main__':
+
+def main():
     app = FlipBookControl()
     sys.exit(app.exec())
 
-
+if __name__ == '__main__':
+    main()

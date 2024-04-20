@@ -17,3 +17,4 @@ Currently only support Windows, since my flipbook style laptop touchscreen is no
 - [ ] Support switching between tablet mode and laptop mode without fold the laptop
 - [ ] Support Built-in Accelerometer to rotate screen
 - [ ] Support Light/Dark theme
+- [ ] Setting to select the monitor and how to rotate
